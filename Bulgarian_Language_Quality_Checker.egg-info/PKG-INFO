@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: Bulgarian-Language-Quality-Checker
+Version: 0.0.0
+Summary: A Python package for Bulgarian language quality checking
+Home-page: https://github.com/Ibis-L/Bulgarian Language Quality Checker
+Author: Ibis-L
+Author-email: lovepreet7gr@gmail.com
+Project-URL: Bug Tracker, https://github.com/Ibis-L/Bulgarian Language Quality Checker/issues
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
